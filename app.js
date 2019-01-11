@@ -70,38 +70,4 @@ if (command==='add'){
 
 
 
-//---------------------------------------
-// var command=process.argv[2];
-// console.log('command :', command);
-//console.log(process.argv);
-//var command=process.argv[2];
-// console.log('command :',command);
-// if(command==='list'){
-// 	console.log('listing all notes');
-// }else if(command==='add'){
-// 	console.log('addding all notes');
-// }else if(command==="read"){
-// 	console.log("reading all notes");
-// }else{
-// 	console.log('nothing selected');
-// }---------------------------------------
 
-
-// console.log(_.isString(12));
-// console.log(_.isString('kartik'));
-
-
-// var notRepeated=_.uniq([1,2,1,'kartik','kartik']);
-// console.log(notRepeated);
-
-
-//var user=os.userInfo();
-// var add=notes.add(2,-5);
-// console.log(add);,
-
-// fs.appendFile('first.txt',`Hello ${user.username}!`,function(err){
-// if(err){
-// 	console.log("unable to write");
-// }
-
-// });
